@@ -1,0 +1,13 @@
+{
+    "name": "vladimir-shalaev22/email",
+    "description": "PHP class for easy mail sending",
+    "authors": [
+        {
+            "name": "Vladimir Shalaev",
+            "email": "vladimir-shalaev22@yandex.ru"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"Utils\\":"src/"}
+    }
+}
